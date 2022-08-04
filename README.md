@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Cryptocurrency, DeFi and Bitcoin
-- 📫 How to reach me: [Email : agrawal.prayag13@gmail.com ] 
- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?style=plastic">
- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?logo=Twitter&style=plastic">
+- 📫 How to reach me: [Email : agrawal.prayag13@gmail.com ] [ Twitter : @PrayagAgrawal ] <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?logo=Twitter&style=plastic">
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Metallurgical & Materials Engineer
 
