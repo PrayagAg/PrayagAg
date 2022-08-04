@@ -1,16 +1,17 @@
 ### Hi there 👋
-
-<!--
-**PrayagAg/PrayagAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ 
+ 
+- 😄 I’m @PrayagAg (Prayag Agrawal)  
+- 🔭 I’m currently working as Blockchain Support Engineer
+- 🌱 I’m currently learning DSA, Smart contract development with Solidity and Full stack development
+- 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Cryptocurrency, DeFi and Bitcoin
+- 📫 How to reach me: [Email : agrawal.prayag13@gmail.com] [Twitter :  	/twitter/follow/:PrayagAgrawal?label=Follow ]
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a Metallurgical & Materials Engineer
+
+
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=pgagrwl">
