@@ -8,7 +8,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Cryptocurrency, DeFi and Bitcoin
 - 📫 How to reach me: [Email : agrawal.prayag13@gmail.com ] 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?style=plastic">
+ <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?style=plastic">
+ ![Twitter Follow](https://img.shields.io/twitter/follow/PrayagAgrawal?style=social)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Metallurgical & Materials Engineer
 
