@@ -9,8 +9,3 @@
 - 📫 How to reach me: [Email : agrawal.prayag13@gmail.com ] [ Twitter : @PrayagAgrawal ] <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PrayagAgrawal?logo=Twitter&style=plastic">
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Metallurgical & Materials Engineer
-
-
-
-
-<img src = "https://github-readme-stats.vercel.app/api?username=pgagrwl">
